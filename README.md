@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hello! I’m Abdallah, a Data Analyst and Business Intelligence Specialist.
 
-<!--
-**abdallah-kamel/abdallah-kamel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Skills & Tools:
 
-Here are some ideas to get you started:
+Data Analysis: Excel, Google Sheets,  SQL
+Data Visualization: Power BI, Looker
+KPI Development & Monitoring
+Operational Data Analysis for Process Improvement
+📈 Experience:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have experience analyzing a wide range of data, including sales, customer service, HR management, supply chain, as well as customer data.
+I work on optimizing processes and providing insights that help make informed decisions to increase efficiency and improve performance.
+🎯 What I’m Currently Working On:
+
+Building advanced dashboards using Power BI , Excel and  Looker to analyze sales, customer service performance, HR efficiency, and supply chain operations.
+🔭 What I’m Interested In:
+
+Developing data analysis strategies that enhance business performance across multiple areas.
+Exploring new tools for data modeling and report automation.
+
+Let’s Connect:
+[LinkedIn](https://www.linkedin.com/in/abdallah-mohamed-1b50781b8/)   [Email](mailto:abdallahboss200@gmail.com)      [WhatsApp](https://wa.me/01014010911)
